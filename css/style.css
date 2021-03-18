@@ -128,7 +128,7 @@ header{
 /*Your code here again.*/
 @media (prefers-reduced-motion: reduce){
   #logo{
-    animation-name: logo_grow;
+    animation: none;
   }
 }
 
